@@ -1,16 +1,7 @@
-# expenses
+# Expenses
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/53448448/235262472-1607473a-6a8d-475f-b27b-61ba176b4d9b.jpeg" width="300px" /> <img src="https://user-images.githubusercontent.com/53448448/235262475-82317199-659e-4a6a-aa8a-731a99bad012.jpeg" width="300px" /> <img src="https://user-images.githubusercontent.com/53448448/235262478-5abca0c9-42c3-4d42-ad60-9fb4a94cbbc3.jpeg" width="300px" />
+<img src="https://user-images.githubusercontent.com/53448448/235262480-7ca0df17-6788-4dcd-ab0e-2a80ca624679.jpeg" width="300px" />
+<img src="https://user-images.githubusercontent.com/53448448/235262483-41d63c37-4089-4ea3-96a1-e269f8136f6d.jpeg" width="300px" />
